@@ -36,3 +36,7 @@ Connect to USB-UART to see task status
 attached working kernel.img image & bootloader files 
 
 Works only on Raspberry B+ or BCM2835(1) .... 
+
+Video uploaded here ..
+
+https://youtu.be/5249f-338MA
